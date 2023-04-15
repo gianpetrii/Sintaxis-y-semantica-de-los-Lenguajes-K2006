@@ -7,6 +7,9 @@
     - Correr el '.exe' desde la terminal, deberia decir 'Hello, World!'
     - Una vez verificado esto, se escribe por terminar el comando './hello.exe > output.txt'
     que deberia generar un archivo 'output.txt' con el texto 'Hello, World!'
+
+   EL REPOSITORIO DE ESTE PROYECTO SE ENCUENTRA EN
+    <https://github.com/gianpetrii/Sintaxis-y-semantica-de-los-Lenguajes-K2006/tree/main/00-CHelloWorld>
 */
 
 #include <stdio.h>
